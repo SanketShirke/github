@@ -4,4 +4,5 @@ git log --oneline
 git clone
 git pull
 git fetch 
-git push 
+git push
+git remote -v 
